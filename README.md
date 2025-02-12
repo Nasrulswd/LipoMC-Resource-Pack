@@ -30,4 +30,14 @@ This is the page you can convert unicode to symbol - [Converter](https://symbl.c
 |Num| Name        | Char | Preview |
 |---|-------------| ------------- | ------------- |
 | 1 | Tablist | \uE012   | ![Image](https://github.com/user-attachments/assets/680b1699-c94f-4769-9b14-d0a050624ea2)  |
-| 1 | Scoreboard | \uE013   | ![Image](https://github.com/user-attachments/assets/680b1699-c94f-4769-9b14-d0a050624ea2)  |
+| 2 | Scoreboard | \uE013   | ![Image](https://github.com/user-attachments/assets/680b1699-c94f-4769-9b14-d0a050624ea2)  |
+
+## Tag Chars
+> [!NOTE]
+> This **texture** file located at ```custom/textures/tag```
+
+|Num| Name        | Char | Preview |
+|---|-------------| ------------- | ------------- |
+| 1 | Discord | \uE014   | ![Image](https://github.com/user-attachments/assets/d6d01988-701f-4f1a-bc64-a3df531c921e)  |
+| 2 | Online | \uE015   | ![Image](https://github.com/user-attachments/assets/87d00cbe-2d43-4617-aa0a-1c735f9cfa56)  |
+| 3 | Ip Address | \uE014   | ![Image](https://github.com/user-attachments/assets/db4a1f04-d1c5-4e42-b11d-c565e3663240)  |
