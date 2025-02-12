@@ -13,7 +13,7 @@
 6. Lagenda = "💜" / ![Image](https://github.com/user-attachments/assets/8bc00e00-ff34-4a42-b14a-75a058f355af)
 7. Raja = "🤎" / ![Image](https://github.com/user-attachments/assets/d5f27890-720d-4c62-ac12-8a75a92143b3)
 8. Wira = "🖤" / ![Image](https://github.com/user-attachments/assets/25d84ffa-eaaa-41b8-ba06-f956c620188c)
-9. Bandar = "🤍" / 
-10. Kampung = "💔" / 
-11. Overlord = "❣" / 
-12. Evangelist = "💕" / 
+9. Bandar = "🤍" / ![Image](https://github.com/user-attachments/assets/27d79c15-ff34-4726-8965-9a312cd56921)
+10. Kampung = "💔" / ![Image](https://github.com/user-attachments/assets/74bf1d8b-6693-404d-a352-1e1cceaf4643)
+11. Overlord = "❣" / ![Image](https://github.com/user-attachments/assets/fe1230bb-760c-4073-a8e7-7bd3c92e4a15)
+12. Evangelist = "💕" / ![Image](https://github.com/user-attachments/assets/c522c168-a0be-4195-8a08-d49aee0724e9)
