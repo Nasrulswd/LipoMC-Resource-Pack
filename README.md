@@ -53,3 +53,13 @@ This is the page you can convert unicode to symbol - [Converter](https://symbl.c
 |---|-------------| ------------- | ------------- |
 | 1 | Negative | \uE017   | ![Image](https://github.com/user-attachments/assets/921acd3e-f7a7-49ac-8334-45728971b479)  |
 | 2 | Positive | \uE018   | ![Image](https://github.com/user-attachments/assets/921acd3e-f7a7-49ac-8334-45728971b479)  |
+
+## Background Chars
+> [!NOTE]
+> This **texture** file located at ```custom/textures/background```
+
+|Num| Name        | Char | Preview |
+|---|-------------| ------------- | ------------- |
+| 1 | Clock | \uE021   | ![Image](https://github.com/user-attachments/assets/694431d2-8376-40c1-85d4-7df4fa84adc2)  |
+| 2 | Calender | \uE022   | ![Image](https://github.com/user-attachments/assets/f3fbd5a8-8ae0-4216-a526-bff4d9892406)  |
+| 2 | Website | \uE023   | ![Image](https://github.com/user-attachments/assets/ad5b0fbf-4cfe-4b71-88f1-936b45012768)  |
