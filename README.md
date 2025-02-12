@@ -1,6 +1,6 @@
 # LipoMC ResourcePack Format
 > [!WARNING]
-> This is for Lipo's developer who whan see how resourcepack work!
+> This is for Lipo's developer who want to see how resourcepack work!
 
 ## Rank Chars
 > [!NOTE]
