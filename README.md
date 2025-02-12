@@ -42,8 +42,8 @@ This is the page you can convert unicode to symbol - [Converter](https://symbl.c
 | 2 | Online | \uE015   | ![Image](https://github.com/user-attachments/assets/87d00cbe-2d43-4617-aa0a-1c735f9cfa56)  |
 | 3 | Ip Address | \uE016   | ![Image](https://github.com/user-attachments/assets/db4a1f04-d1c5-4e42-b11d-c565e3663240)  |
 | 4 | Clock | \uE019   | ![Image](https://github.com/user-attachments/assets/e6cdff82-e623-4c0c-a0ac-3d9980345e58)  |
-| 5 | Calender | \uE020   | ![Image](https://github.com/user-attachments/assets/675d8d22-b007-46b4-b5f6-0717c3188749)  |
-| 6 | Info | \uE023   | ![Image](https://github.com/user-attachments/assets/4fe9f18d-9268-4635-b24c-525b8fe3fd2a)  |
+| 5 | Calender | \uE020   | ![Image](https://github.com/user-attachments/assets/4fe9f18d-9268-4635-b24c-525b8fe3fd2a)  |
+| 6 | Info | \uE023   | ![Image](https://github.com/user-attachments/assets/675d8d22-b007-46b4-b5f6-0717c3188749)  |
 
 ## Space Chars
 > [!NOTE]
