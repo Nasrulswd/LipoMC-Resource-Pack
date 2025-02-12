@@ -4,7 +4,7 @@
 
 ## Rank Chars
 > [!NOTE]
-> This **texture** file located at ```custom/textures/ranks``` and **.json** file located at ```minecraft/font/ranks.json```
+> This **texture** file located at ```custom/textures/ranks```
 
 |Num| Name        | Char | Preview |
 |---|-------------| ------------- | ------------- |
@@ -23,7 +23,7 @@
 
 ## Logo Chars
 > [!NOTE]
-> This **texture** file located at ```custom/textures/logo``` and **.json** file located at ```minecraft/font/default.json```
+> This **texture** file located at ```custom/textures/logo```
 
 |Num| Name        | Char | Preview |
 |---|-------------| ------------- | ------------- |
