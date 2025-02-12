@@ -40,4 +40,13 @@ This is the page you can convert unicode to symbol - [Converter](https://symbl.c
 |---|-------------| ------------- | ------------- |
 | 1 | Discord | \uE014   | ![Image](https://github.com/user-attachments/assets/d6d01988-701f-4f1a-bc64-a3df531c921e)  |
 | 2 | Online | \uE015   | ![Image](https://github.com/user-attachments/assets/87d00cbe-2d43-4617-aa0a-1c735f9cfa56)  |
-| 3 | Ip Address | \uE014   | ![Image](https://github.com/user-attachments/assets/db4a1f04-d1c5-4e42-b11d-c565e3663240)  |
+| 3 | Ip Address | \uE016   | ![Image](https://github.com/user-attachments/assets/db4a1f04-d1c5-4e42-b11d-c565e3663240)  |
+
+## Space Chars
+> [!NOTE]
+> This **texture** file located at ```custom/textures/tag```
+
+|Num| Name        | Char | Preview |
+|---|-------------| ------------- | ------------- |
+| 1 | Negative | \uE017   | ![Image](https://github.com/user-attachments/assets/921acd3e-f7a7-49ac-8334-45728971b479)  |
+| 2 | Positive | \uE018   | ![Image](https://github.com/user-attachments/assets/921acd3e-f7a7-49ac-8334-45728971b479)  |
