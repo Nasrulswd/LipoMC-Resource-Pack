@@ -2,6 +2,9 @@
 > [!WARNING]
 > This is for Lipo's developer who want to see how resourcepack work!
 
+This is the page you con convert unicode to symbol:
+https://symbl.cc/
+
 ## Rank Chars
 > [!NOTE]
 > This **texture** file located at ```custom/textures/ranks```
