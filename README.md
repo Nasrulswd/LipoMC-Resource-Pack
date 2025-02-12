@@ -20,3 +20,11 @@
 |10 | Kampung     | 💔  | ![Image](https://github.com/user-attachments/assets/74bf1d8b-6693-404d-a352-1e1cceaf4643)  |
 |11 | Overlord    | ❣   | ![Image](https://github.com/user-attachments/assets/fe1230bb-760c-4073-a8e7-7bd3c92e4a15)  |
 |12 | Evangelist  | 💕  | ![Image](https://github.com/user-attachments/assets/0d00931f-358f-4718-bd85-00389a9a2d91)  |
+
+## Logo Chars
+> [!NOTE]
+> This texture file located at custom/textures/logo and .json file located at minecraft/font/default.json
+
+|Num| Name        | Char | Preview |
+|---|-------------| ------------- | ------------- |
+| 1 | lipomc_logo | ❤   | ![Image](https://github.com/user-attachments/assets/680b1699-c94f-4769-9b14-d0a050624ea2)  |
