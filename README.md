@@ -4,8 +4,7 @@
 
 ## Rank Chars
 > [!NOTE]
-> This texture file located at custom/textures/ranks
-> This .json file located at minecraft/font/ranks.json
+> This texture file located at custom/textures/ranks and .json file located at minecraft/font/ranks.json
 
 |Num| Name        | Char | Preview |
 |---|-------------| ------------- | ------------- |
