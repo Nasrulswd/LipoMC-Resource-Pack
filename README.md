@@ -19,4 +19,4 @@
 | 9 | Bandar      | 🤍  | ![Image](https://github.com/user-attachments/assets/27d79c15-ff34-4726-8965-9a312cd56921)  |
 |10 | Kampung     | 💔  | ![Image](https://github.com/user-attachments/assets/74bf1d8b-6693-404d-a352-1e1cceaf4643)  |
 |11 | Overlord    | ❣   | ![Image](https://github.com/user-attachments/assets/fe1230bb-760c-4073-a8e7-7bd3c92e4a15)  |
-|12 | Evangelist  | 💕  | ![Image](https://github.com/user-attachments/assets/c522c168-a0be-4195-8a08-d49aee0724e9)  |
+|12 | Evangelist  | 💕  | ![Image](https://github.com/user-attachments/assets/0d00931f-358f-4718-bd85-00389a9a2d91)  |
