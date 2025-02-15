@@ -54,6 +54,7 @@ This color turn image no shadow - ```#4e5c24```
 |---|-------------| ------------- | ------------- |
 | 1 | Negative | \uE017   | ![Image](https://github.com/user-attachments/assets/921acd3e-f7a7-49ac-8334-45728971b479)  |
 | 2 | Positive | \uE018   | ![Image](https://github.com/user-attachments/assets/921acd3e-f7a7-49ac-8334-45728971b479)  |
+| 3 | Scoreboard | \uE025   | ![Image](https://github.com/user-attachments/assets/921acd3e-f7a7-49ac-8334-45728971b479)  |
 
 ## Background Chars
 > [!NOTE]
