@@ -3,6 +3,7 @@
 > This is for Lipo's developer who want to see how resourcepack work!
 
 This is the page you can convert unicode to symbol - [Converter](https://symbl.cc/).
+This color turn image no shadow - ```#4e5c24```
 
 ## Rank Chars
 > [!NOTE]
