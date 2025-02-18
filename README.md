@@ -45,6 +45,7 @@ This color turn image no shadow - ```#4e5c24```
 | 4 | Clock | \uE019   | ![Image](https://github.com/user-attachments/assets/e6cdff82-e623-4c0c-a0ac-3d9980345e58)  |
 | 5 | Calender | \uE020   | ![Image](https://github.com/user-attachments/assets/4fe9f18d-9268-4635-b24c-525b8fe3fd2a)  |
 | 6 | Info | \uE023   | ![Image](https://github.com/user-attachments/assets/675d8d22-b007-46b4-b5f6-0717c3188749)  |
+| 7 | Vote Coin | \uE026   | ![Image](https://github.com/user-attachments/assets/544781fb-a0a1-4c02-811f-fa2100005297)  |
 
 ## Space Chars
 > [!NOTE]
