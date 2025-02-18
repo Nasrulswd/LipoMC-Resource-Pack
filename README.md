@@ -62,6 +62,6 @@ This color turn image no shadow - ```#4e5c24```
 
 |Num| Name        | Char | Preview |
 |---|-------------| ------------- | ------------- |
-| 1 | Clock | \uE021   | ![Image](https://github.com/user-attachments/assets/694431d2-8376-40c1-85d4-7df4fa84adc2)  |
-| 2 | Calender | \uE022   | ![Image](https://github.com/user-attachments/assets/f3fbd5a8-8ae0-4216-a526-bff4d9892406)  |
-| 2 | Website | \uE023   | ![Image](https://github.com/user-attachments/assets/ad5b0fbf-4cfe-4b71-88f1-936b45012768)  |
+| 1 | Clock | \uE021   | ![Image](https://github.com/user-attachments/assets/0fb67052-e74a-4d2d-ab7b-848c3a15734c)  |
+| 2 | Calender | \uE022   | ![Image](https://github.com/user-attachments/assets/3e493a6b-7aa9-4e5c-b726-997b2ec51c9b)  |
+| 2 | Website | \uE023   | ![Image](https://github.com/user-attachments/assets/2b829686-5e1a-4395-a68d-a524467fddf6)  |
