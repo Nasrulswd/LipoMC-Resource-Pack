@@ -66,3 +66,5 @@ This color turn image no shadow - ```#4e5c24```
 | 1 | Clock | \uE021   | ![Image](https://github.com/user-attachments/assets/0fb67052-e74a-4d2d-ab7b-848c3a15734c)  |
 | 2 | Calender | \uE022   | ![Image](https://github.com/user-attachments/assets/3e493a6b-7aa9-4e5c-b726-997b2ec51c9b)  |
 | 2 | Website | \uE023   | ![Image](https://github.com/user-attachments/assets/2b829686-5e1a-4395-a68d-a524467fddf6)  |
+| 3 | Scoreboard | \uE027   | ![Image](https://github.com/user-attachments/assets/5228f2db-c8a1-40d9-b8b4-d36525931c65)  |
+| 4 | Scoreboard coin | \uE028   | ![Image](https://github.com/user-attachments/assets/6f2f74e1-f43a-48ef-9c52-e06300f285cc)  |
