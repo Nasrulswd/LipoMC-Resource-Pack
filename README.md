@@ -49,7 +49,7 @@ This color turn image no shadow - ```#4e5c24```
 
 ## Space Chars
 > [!NOTE]
-> This **texture** file located at ```custom/textures/tag```
+> This **texture** file located at ```custom/textures/space```
 
 |Num| Name        | Char | Preview |
 |---|-------------| ------------- | ------------- |
