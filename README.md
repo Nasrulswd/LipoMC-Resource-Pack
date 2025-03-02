@@ -30,8 +30,8 @@ This color turn image no shadow - ```#4e5c24```
 
 |Num| Name        | Char | Preview |
 |---|-------------| ------------- | ------------- |
-| 1 | Tablist | \uE012   | ![Image](https://github.com/user-attachments/assets/680b1699-c94f-4769-9b14-d0a050624ea2)  |
-| 2 | Scoreboard | \uE013   | ![Image](https://github.com/user-attachments/assets/680b1699-c94f-4769-9b14-d0a050624ea2)  |
+| 1 | Tablist | \uE012   | ![Image](https://github.com/user-attachments/assets/8438275e-e024-4103-852b-286c4cb3b0bb)  |
+| 2 | Scoreboard | \uE013   | ![Image](https://github.com/user-attachments/assets/8438275e-e024-4103-852b-286c4cb3b0bb)  |
 
 ## Tag Chars
 > [!NOTE]
